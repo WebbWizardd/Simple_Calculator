@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: lightcyan;
+}
+.cal_body{
+    background-color: #fff;
+}
+
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+input{
+    width: 100%;
+    margin-bottom: 4px;
+    padding: 7px;
+    border-radius: 3px;
+}
+input[type=button]{
+    background-color: #049204;
+    border: none;
+    color: #fff;
+}
